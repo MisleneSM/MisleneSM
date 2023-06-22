@@ -1,5 +1,4 @@
 # Olá, eu sou a Mislene 👋
-### Bem-vindo ao meu perfil do Github😄
 
 😄 Meu nome é Mislene Silva Moura e tenho 23 anos. 
 <br>
