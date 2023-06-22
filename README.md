@@ -7,8 +7,9 @@
 📌Este repositório é um portfólio dos meus estudos relacionados a desenvolvimento Front-end, e aqui você encontrará uma visão geral das minhas habilidades técnicas e dos projetos em que venho desenvolvendo. <br>
 📊Dentre as minhas habilidades de softs skills, as que venho aprimorando bem são: flexibilidade, criatividade, empatia, colaboração, organização, adaptabilidade, agilidade, aprender a aprender e venho trabalhando para melhorias na minha comunicação, resolução de problemas e muito mais.
 
-### 📕Estou desenvolvendo e utilizando tecnologias como:
 <div align="center">
+### 📕Estou desenvolvendo e utilizando tecnologias como:
+
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
