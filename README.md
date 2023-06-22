@@ -1,7 +1,8 @@
 # Olá, eu sou a Mislene 👋
 ### Bem-vindo ao meu perfil do Github😄
 
-😄 Meu nome é Mislene Silva Moura e tenho 23 anos. <br>
+😄 Meu nome é Mislene Silva Moura e tenho 23 anos. 
+<br>
 🎓📕 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando Desenvolvimento Web na < Laboratória >
 
 📌Este repositório é um portfólio dos meus estudos relacionados a desenvolvimento Front-end, e aqui você encontrará uma visão geral das minhas habilidades técnicas e dos projetos em que venho desenvolvendo. <br>
