@@ -1,4 +1,4 @@
-# Olá, eu sou a Mislene 👋
+## Olá, eu sou a Mislene 👋
 
 😄 Meu nome é Mislene Silva Moura e tenho 23 anos. 
 <br>
@@ -39,4 +39,5 @@
 
 <br>
 
-!(https://github.com/MisleneSM/MisleneSM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MisleneSM/MisleneSM/blob/output/github-contribution-grid-snake.svg)
+
