@@ -5,8 +5,6 @@
 🎓📕 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando Desenvolvimento Web na < Laboratória >
 
 📌Este repositório é um portfólio dos meus estudos relacionados a desenvolvimento Front-end, e aqui você encontrará uma visão geral das minhas habilidades técnicas e dos projetos em que venho desenvolvendo. <br>
-📊Dentre as minhas habilidades de softs skills, as que venho aprimorando bem são: flexibilidade, criatividade, empatia, colaboração, organização, adaptabilidade, agilidade, aprender a aprender e venho trabalhando para melhorias na minha comunicação, resolução de problemas e muito mais.
-
 
 <div align="center" dir="auto"><br>
   <p>📕Estou desenvolvendo e utilizando tecnologias como:</p>
