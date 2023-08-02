@@ -1,6 +1,6 @@
 ## Olá, eu sou a Mislene 👋
 
-😄 Meu nome é Mislene Silva Moura e tenho 23 anos. 
+😄 Meu nome é Mislene Silva Moura e tenho 23 anos.
 <br>
 🎓📕 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando Desenvolvimento Web na < Laboratória >
 
