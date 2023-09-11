@@ -4,7 +4,7 @@
 <br>
 🎓📕 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando Desenvolvimento Web na <a href="https://www.laboratoria.la/br" target="_blank">< Laboratória ></a>
 
-📌Este repositório é um portfólio dos meus estudos relacionados a desenvolvimento web, e aqui você encontrará uma visão geral das minhas habilidades técnicas e dos projetos em que venho desenvolvendo. <br>
+📌Este repositório é um portfólio dos meus estudos relacionados a desenvolvimento web, e aqui você encontrará uma visão geral das minhas habilidades técnicas e dos projetos em que estou desenvolvendo. <br>
 
 <div align="center" dir="auto"><br>
   <p>📕Estou desenvolvendo e utilizando tecnologias como:</p>
