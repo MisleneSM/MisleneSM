@@ -34,7 +34,7 @@
 
 <div align="center">
   <p>📫E você pode me encontrar através dessas redes de comunicação:</p>
-  <a href = "mailto:mislene.moura2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mislene-silva-moura-1211531b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:mislene.moura2000@gmail.com) [![Linkedin](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/mislenemoura/)
 </div>
 
