@@ -1,10 +1,10 @@
 ## Olá, eu sou a Mislene 👋
 
-😄 Meu nome é Mislene Silva Moura e tenho 23 anos.
+😄 Meu nome é Mislene Silva Moura e tenho 24 anos.
 <br>
 🎓📕 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e formada em Desenvolvimento Web na <a href="https://www.laboratoria.la/br" target="_blank">< Laboratória >.</a>
 
-📌Este repositório é um portfólio dos meus estudos relacionados a desenvolvimento web, e aqui você encontrará uma visão geral das minhas habilidades técnicas e dos projetos em que estou desenvolvendo. <br>
+📌Este repositório é um portfólio dos meus estudos relacionados a desenvolvimento web, e aqui você encontrará uma visão geral das minhas habilidades técnicas e dos projetos em que estou desenvolvendo. Sou apaixonada por aprender coisas novas e estou sempre em busca de novos desafios. <br>
 
 <div align="center"><br>
 <p>📕Estou desenvolvendo e utilizando tecnologias como:</p>
